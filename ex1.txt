@@ -1,0 +1,3 @@
+contine numai caractere ale carei coduri au fost citite initial 
+nu contine doi operatori succesivi 
+nu contine impartiri la zero. 

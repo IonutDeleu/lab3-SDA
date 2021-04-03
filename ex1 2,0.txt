@@ -1,0 +1,4 @@
+nu contine impartiri la zero. 
+pjnu contine doi operatori succesivi 
+vcontine numai caractere ale carei coduri au fost citite initial 
+P@
